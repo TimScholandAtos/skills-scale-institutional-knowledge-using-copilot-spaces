@@ -28,7 +28,10 @@ The following documents provide detailed guidance on each aspect of OctoAcme's p
 
 ### Supporting Documentation
 
-- **[Roles and Personas](octoacme-roles-and-personas.md)** - Detailed definitions of key roles including Developers, Product Managers, and Project Managers
+- **[Roles and Personas](octoacme-roles-and-personas.md)** - Comprehensive definitions of all project roles including Developers, Product Managers, Project Managers, Business Analysts, UX Designers, Release Managers, Support Leads, and Security Champions, with collaboration patterns
+- **[Role Onboarding Guide](octoacme-role-onboarding-guide.md)** - Structured onboarding paths for new team members in any role
+- **[Cross-Role Responsibility Matrix](octoacme-responsibility-matrix.md)** - RACI chart defining accountability for key project activities
+- **[Milestone Collaboration Checklist](octoacme-milestone-checklist.md)** - Phase-specific collaboration guidance for effective cross-role coordination
 
 ## Getting Started
 
